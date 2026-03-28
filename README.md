@@ -38,8 +38,9 @@ We propose an AI-powered RF spectrum classification system that detects anomalie
 ---
 
 ## 📸 Demo / Screenshots
-(Add your prototype screenshots here)
 
+
+![System Output](./SCREEN%20SHOT_WhatsApp%20Image%202026-03-28%20at%2012.02.51%20PM.jpeg)
 ---
 
 ## 🔮 Future Scope
